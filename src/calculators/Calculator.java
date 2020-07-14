@@ -106,15 +106,7 @@ public class Calculator {
 				operation = "%";
 			}
 			
-		});
-		
-		/*
-		 * firstNumber = Double.parseDouble(textField.getText());
-				textField.setText("");
-				operation = "+";
-		 */
-		
-		
+		});		
 		btnPorc.setFont(new Font("Tahoma", Font.BOLD, 12));
 		btnPorc.setBounds(110, 51, 48, 48);
 		frmCalcversion.getContentPane().add(btnPorc);
